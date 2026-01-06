@@ -1,3 +1,11 @@
+## set up db_instance with mariadb engion 
+## create 2 Ec2 instances 
+## crete Sequrity group
+<img width="1205" height="265" alt="Screenshot 2026-01-06 at 4 31 52 PM" src="https://github.com/user-attachments/assets/47b5bc95-6840-47a7-a7cc-d95ef6caf692" />
+
+
+
+---
 # EasyCRUD - Student Registration System
 
 A full-stack web application for student registration with a React frontend and Spring Boot backend.
