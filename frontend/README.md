@@ -31,10 +31,13 @@ npm install
 
 Update backend URL in .env file
 
+```bash
+vim .env
+```
 ```shell
-vim .env 
-
-    VITE_API_URL = "http://<BACKEND_PUBLIC_IP>:8080/api"
+VITE_API_URL=http://$BACKEND:8080/api
+VITE_API_BASE_URL=http://$BACKEND:8080
+VITE_APP_TITLE=EasyCRUD Student Registration
 ```
 
 To build the React application for production, run:
