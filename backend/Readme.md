@@ -39,6 +39,9 @@ mvn -version
 ## Step 3: Build the Spring Boot Application
 
 ### Update DB credentials in application.properties:
+```
+pwd
+```
 
 ```bash
 vim backend/src/main/resources/application.properties
@@ -74,3 +77,4 @@ http://localhost:8080
 
 
 To keep the application running in the background, you can use nohup or a similar method. 
+
